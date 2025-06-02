@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lubbin
+# 👋 Hi there, I'm Ludvig
 
 Welcome to my GitHub — a curated collection of things I’ve built, broken, fixed, and occasionally obsessed over.
 
@@ -19,10 +19,10 @@ I work at the intersection of **code, creativity, and curiosity**, constantly ex
 
 ### Languages & Frameworks
 - PHP • C++ • JavaScript • Python • GDScript
-- Laravel • Node.js • Godot Engine
+- Node.js • Godot Engine
 
 ### Tools & Platforms
-- VS Code • Git • Linux • Figma • ESP-IDF • MySQL
+- VS Code • Git • Linux • Figma • ESP-IDF • MySQL • Godot • Unity • UE5
 
 ---
 
